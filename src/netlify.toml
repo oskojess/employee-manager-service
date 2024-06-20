@@ -5,5 +5,5 @@
 
 [[redirects]]
 from = "/employee/*"
-to = "/"
+to = "/employee/:splat"
 status = 200
