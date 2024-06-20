@@ -1,4 +1,3 @@
-O ColabManager Service é um serviço de gestão de colaboradores de uma empresa, oferecendo uma interface eficiente para o gerenciamento de informações de colaboradores.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
